@@ -1,0 +1,14 @@
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsing2Stacks\bin\Debug\net8.0\QueuesUsing2Stacks.exe
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsing2Stacks\bin\Debug\net8.0\QueuesUsing2Stacks.deps.json
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsing2Stacks\bin\Debug\net8.0\QueuesUsing2Stacks.runtimeconfig.json
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsing2Stacks\bin\Debug\net8.0\QueuesUsing2Stacks.dll
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsing2Stacks\bin\Debug\net8.0\QueuesUsing2Stacks.pdb
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsing2Stacks\obj\Debug\net8.0\QueuesUsing2Stacks.GeneratedMSBuildEditorConfig.editorconfig
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsing2Stacks\obj\Debug\net8.0\QueuesUsing2Stacks.AssemblyInfoInputs.cache
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsing2Stacks\obj\Debug\net8.0\QueuesUsing2Stacks.AssemblyInfo.cs
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsing2Stacks\obj\Debug\net8.0\QueuesUsing2Stacks.csproj.CoreCompileInputs.cache
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsing2Stacks\obj\Debug\net8.0\QueuesUsing2Stacks.dll
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsing2Stacks\obj\Debug\net8.0\refint\QueuesUsing2Stacks.dll
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsing2Stacks\obj\Debug\net8.0\QueuesUsing2Stacks.pdb
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsing2Stacks\obj\Debug\net8.0\QueuesUsing2Stacks.genruntimeconfig.cache
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsing2Stacks\obj\Debug\net8.0\ref\QueuesUsing2Stacks.dll
